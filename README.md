@@ -40,7 +40,7 @@ I'm **Dagnew Mekasha**, a 21-year-old Software Engineer and CS student at **Hawa
 - 🤝 Open to collaborating on **open-source projects** and innovative builds
 - 💬 Ask me about **Python, JavaScript, React, Django, or ML**
 - 📫 Reach me: [dagnew19211921@gmail.com](mailto:dagnew19211921@gmail.com)
-- 📱 Telegram: [@Teddy21123](https://t.me/Teddy21123)
+- 📱 Telegram: [@Teddy21123](https://t.me/Teddy403)
 - ⚡ Fun fact: I turn coffee and curiosity into working software ☕
 
 </td>
