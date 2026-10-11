@@ -40,7 +40,7 @@ I'm **Dagnew Mekasha**, a 21-year-old Software Engineer and CS student at **Hawa
 - 🤝 Open to collaborating on **open-source projects** and innovative builds
 - 💬 Ask me about **Python, JavaScript, React, Django, or ML**
 - 📫 Reach me: [dagnew19211921@gmail.com](mailto:dagnew19211921@gmail.com)
-- 📱 Telegram: [@Teddy403](https://t.me/Teddy403)
+- 📱 Telegram: [@DagnexCru](https://t.me/DagnexCru)
 - ⚡ Fun fact: I turn coffee and curiosity into working software ☕
 
 </td>
@@ -95,7 +95,7 @@ I'm **Dagnew Mekasha**, a 21-year-old Software Engineer and CS student at **Hawa
 A fully responsive Netflix-inspired streaming UI built with modern web technologies.
 - ⚙️ **Stack:** React, Node.js, Express.js, MongoDB
 - 🎯 Features: Authentication, movie browsing, responsive design
-- 🔗 [View Repository](https://github.com/DAVM-2119)
+- 🔗 [View Repository](https://github.com/DagnexCru)
 
 </td>
 <td width="50%">
@@ -104,7 +104,7 @@ A fully responsive Netflix-inspired streaming UI built with modern web technolog
 A complete hospital management solution built in plain Java with a file-system based database.
 - ⚙️ **Stack:** Java (OOP), File System DB
 - 🎯 Features: Patient records, doctor management, appointment scheduling
-- 🔗 [View Repository](https://github.com/DAVM-2119)
+- 🔗 [View Repository](https://github.com/DagnexCru)
 
 </td>
 </tr>
