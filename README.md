@@ -82,34 +82,7 @@ I'm **Dagnaw Mekasha**, a 22-year-old Software Engineer and CS student at **Hawa
 </tr>
 </table>
 
----
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎬 Netflix Clone
-A fully responsive Netflix-inspired streaming UI built with modern web technologies.
-- ⚙️ **Stack:** React, Node.js, Express.js, MongoDB
-- 🎯 Features: Authentication, movie browsing, responsive design
-- 🔗 [View Repository](https://github.com/DagnexCru)
-
-</td>
-<td width="50%">
-
-### 🏥 Hospital Management System
-A complete hospital management solution built in plain Java with a file-system based database.
-- ⚙️ **Stack:** Java (OOP), File System DB
-- 🎯 Features: Patient records, doctor management, appointment scheduling
-- 🔗 [View Repository](https://github.com/DagnexCru)
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📊 GitHub Analytics
 
