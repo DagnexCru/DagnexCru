@@ -77,7 +77,7 @@ I'm **Dagnew Mekasha**, a 21-year-old Software Engineer and CS student at **Hawa
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 
 </td>
 </tr>
@@ -117,13 +117,13 @@ A complete hospital management solution built in plain Java with a file-system b
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DAVM-2119&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVM-2119&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanexCru&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DAVM-2119&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DagnexCru&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -173,6 +173,6 @@ A complete hospital management solution built in plain Java with a file-system b
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,40:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" />
 
-*⭐ From [DAVM-2119](https://github.com/DAVM-2119) — Keep building, keep growing!*
+*⭐ From [DAVM-2119](https://github.com/DagnexCru) — Keep building, keep growing!*
 
 </div>
