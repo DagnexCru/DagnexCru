@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:203a43,100:2c5364&height=220&section=header&text=Dagnew%20Mekasha&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:203a43,100:2c5364&height=220&section=header&text=Dagnaw%20Mekasha&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00BFFF&center=true&vCenter=true&width=950&lines=Hi+everyone!+%F0%9F%91%8B;My+name+is+Dagnew+Mekasha.;I+am+an+AI-powered+Software+Developer.;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00BFFF&center=true&vCenter=true&width=950&lines=Hi+everyone!+%F0%9F%91%8B;My+name+is+Dagnaw+Mekasha.;I+am+an+AI-powered+Software+Developer.;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,11 +13,11 @@
 ### ⚡ *Building the future, one commit at a time* ⚡
 
 [![Email](https://img.shields.io/badge/EMAIL-dagnew19211921%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:dagnew19211921@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dagnew%20Mekasha-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dagnew-mekasha-2637a139)
-[![Telegram](https://img.shields.io/badge/Telegram-@Teddy21123-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Teddy21123)
-![Followers](https://img.shields.io/github/followers/DAVM-2119?label=FOLLOWERS&style=flat-square&color=blue)
-![Profile Views](https://komarev.com/ghpvc/?username=DAVM-2119&label=PROFILE+VIEWS&color=0e75b6&style=flat-square)
-![Age](https://img.shields.io/badge/AGE-21-brightgreen?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dagnaw%20Mekasha-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dagnew-mekasha-2637a139)
+[![Telegram](https://img.shields.io/badge/Telegram-@DagnexCru-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/DagnexCru)
+![Followers](https://img.shields.io/github/followers/DagnexCru?label=FOLLOWERS&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=DagnexCru&label=PROFILE+VIEWS&color=0e75b6&style=flat-square)
+![Age](https://img.shields.io/badge/AGE-22-brightgreen?style=flat-square)
 ![Location](https://img.shields.io/badge/📍-Hawassa%2C%20Ethiopia-orange?style=flat-square)
 
 > *"I don't just write code — I engineer solutions that solve real problems."*
@@ -32,7 +32,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Dagnew Mekasha**, a 21-year-old Software Engineer and CS student at **Hawassa University** (2023–2027), based in Hawassa, Ethiopia. I'm deeply passionate about building scalable web applications and exploring the cutting edge of Machine Learning.
+I'm **Dagnaw Mekasha**, a 22-year-old Software Engineer and CS student at **Hawassa University** (2023–2027), based in Hawassa, Ethiopia. I'm deeply passionate about building scalable web applications and exploring the cutting edge of Machine Learning.
 
 - 🔭 Currently building a **personal website** using the MERN stack + Django
 - 🌱 Learning **Machine Learning** with Python and advancing my **Full Stack** skills
@@ -78,7 +78,6 @@ I'm **Dagnew Mekasha**, a 21-year-old Software Engineer and CS student at **Hawa
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-
 </td>
 </tr>
 </table>
@@ -116,8 +115,8 @@ A complete hospital management solution built in plain Java with a file-system b
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DAVM-2119&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanexCru&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DagnexCru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DagnexCru&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 </div>
 
@@ -129,7 +128,7 @@ A complete hospital management solution built in plain Java with a file-system b
 
 <div align="center">
 
-[![Dagnew's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DAVM-2119&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dagnaw's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DagnexCru&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -138,41 +137,7 @@ A complete hospital management solution built in plain Java with a file-system b
 ## 🎯 Current Focus
 
 ```text
-🌐 Full Stack Web Dev   ████████████████░░░░   80%
-🤖 Machine Learning     ████████████░░░░░░░░   60%
-🗄️ Database Management  ██████████████░░░░░░   70%
-🔌 RESTful APIs         ███████████████░░░░░   75%
-```
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dagnew-mekasha-2637a139)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dagnew19211921@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Teddy21123)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DAVM-2119)
-
-</div>
-
----
-
-## ⚡ Support My Work
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dagnewmekasha)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,40:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" />
-
-*⭐ From [DAVM-2119](https://github.com/DagnexCru) — Keep building, keep growing!*
-
-</div>
+🌐 Full Stack Web Dev  ████████████████░░░░  80%
+🤖 Machine Learning    ████████████░░░░░░░░  60%
+🗄️ Database Management ██████████████░░░░░░  70%
+🔌 RESTful APIs        ███████████████░░░░░  75%
