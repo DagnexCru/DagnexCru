@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ TECH STACK
+## TECH STACK
 
 ### 🎨 Frontend Technologies
 <div align="center">
@@ -84,7 +84,7 @@ I am **Dagnew Mekasha**, a software developer and CS undergraduate based in **Ha
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DagnexCru&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=DagnexCru&show_icons=true&theme=tokyonight&hide_border=true&number_format=exact&hide_rank=true&count_private=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DagnexCru&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 </div>
