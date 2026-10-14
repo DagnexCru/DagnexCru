@@ -1,62 +1,90 @@
 <div align="center">
 
-# 🌐 DAGNEW MEKASHA
-**Computer Science Student @ Hawassa University | Software Engineer**
+# 🚀 DAGNEW MEKASHA
+### *Full-Stack Developer & Machine Learning Practitioner*
 
 <br/>
 
-<p align="center">
-  <a href="mailto:dagnew19211921@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" height="40"/></a>
-  <a href="https://www.linkedin.com/in/dagnew-mekasha-2637a139"><img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/></a>
-  <a href="https://t.me/DagnexCru"><img src="https://img.shields.io/badge/-TELEGRAM-cyan?style=for-the-badge&logo=telegram&logoColor=white" height="40"/></a>
-</p>
+<a href="mailto:dagnew19211921@gmail.com">
+  <img src="https://img.shields.io/badge/-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" />
+</a>
+<a href="https://t.me/DagnexCru">
+  <img src="https://img.shields.io/badge/-Chat_on_Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" height="42" />
+</a>
+<a href="https://www.linkedin.com/in/dagnew-mekasha-2637a139">
+  <img src="https://img.shields.io/badge/-LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42" />
+</a>
+
+<br/><br/>
 
 </div>
 
 ---
 
-## 🛠️ CORE TECHNOLOGIES & TOOLS
+## 🛠️ VISUAL TECH STACK (LARGE ICON SUITE)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,html,css&perline=7" height="65" />
-</p>
+### 🎨 Frontend Technologies
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,vite,nextjs,figma&perline=7" height="65" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,nodejs,express,fastapi,postgres,mongodb,mysql&perline=7" height="65" />
-</p>
+### ⚙️ Backend & Database Technologies
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="60" height="60"/>
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=redis,docker,git,github,vscode,postman,linux&perline=7" height="65" />
-</p>
+<br/>
+
+### 🤖 Machine Learning & Tools
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60"/>
+</div>
 
 ---
 
-## 📝 TECHNICAL ARCHITECTURE & EXPERIENCE PROFILE
+## 📌 PROFESSIONAL BACKGROUND & COLLABORATION
 
-### 🏛️ System Architecture & Backend
-I place heavy emphasis on clean backend design patterns, microservices principles, and secure API transport mechanisms.
-* **REST & API Security:** Experienced in defining strict RESTful endpoints, parameter tampering defenses, and robust session management (HttpOnly SameSite cookies & JWT headers).
-* **Database Management:** Proficient in schema design, normalization, complex SQL querying in PostgreSQL and MySQL, as well as document-oriented modeling with MongoDB.
-* **Performance Caching:** Utilizing Redis for memory caching and fast session handling across microservices.
+### 👨‍💻 Who I Am
+I am **Dagnew Mekasha**, a software developer and CS undergraduate based in **Hawassa, Ethiopia**. My engineering focus revolves around solving complex computational problems through robust backends, sleek interfaces, and machine learning models.
 
-### 💻 Frontend & User Experience
-* Dedicated to modern web design principles using component-driven frameworks like React.
-* Skilled in responsive layout engines (Tailwind CSS, Bootstrap), centralized state management (Redux), and lightning-fast web bundling (Vite).
-
-### 📊 Machine Learning & Data Analytics
-* Applied Python workflow incorporating NumPy for mathematical operations, Pandas for dataframe manipulation, and Scikit-learn for supervised and unsupervised machine learning algorithms.
-* Focused on building data preprocessing pipelines and model evaluation setups.
+### 💡 Core Strengths
+1. **Full-Stack Application Development:** Seamlessly connecting React/TypeScript frontends with Django or Node.js microservices.
+2. **API & Database Design:** Structuring clean REST endpoints, handling database caching with Redis, and writing efficient SQL/NoSQL queries.
+3. **Data Science & ML Integration:** Preprocessing raw datasets, extracting key analytics, and building predictive ML classifiers.
+4. **Clean Code & Security:** Implementing security best practices (HttpOnly cookies, CORS policies, authentication routines) across projects.
 
 ---
 
-## 📊 CODE CONTRIBUTION TRACKER
+## 📊 METRICS & STATS
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DagnexCru&theme=dark&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=DagnexCru&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DagnexCru&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 </div>
