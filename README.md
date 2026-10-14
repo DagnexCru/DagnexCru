@@ -87,10 +87,10 @@ I am **Dagnew Mekasha**, a software developer and CS undergraduate based in **Ha
 <table>
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=DagnexCru&theme=tokyonight&hide_border=true" />
+      <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=DagnexCru&theme=tokyonight&hide_border=true&mode=daily&v=101" />
     </td>
     <td width="50%" align="center" valign="middle">
-      <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DagnexCru&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+      <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DagnexCru&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&v=101" />
     </td>
   </tr>
 </table>
