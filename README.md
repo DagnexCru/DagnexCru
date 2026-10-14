@@ -1,67 +1,57 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:203a43,100:2c5364&height=220&section=header&text=Dagnew%20Mekasha&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,24&height=200&section=header&text=DAGNEW%20MEKASHA&fontSize=55&fontColor=ffffff&animation=twinkle&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20%26%20ML%20BUILDER&descAlignY=62&descSize=18" width="100%" />
 
 <br/>
 
-<!-- Interactive Typing Header -->
-<a href="https://github.com/DagnexCru">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=950&lines=Hi+everyone!+%F0%9F%91%8B;My+name+is+Dagnew+Mekasha.;I+am+an+AI-Powered+Full-Stack+Developer.;Welcome+to+my+interactive+GitHub+profile!" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-### ⚡ *Building the future, one commit at a time* ⚡
-
-<!-- Clickable Social & Status Badges -->
-<a href="mailto:dagnew19211921@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://t.me/DagnexCru">
+  <img src="https://img.shields.io/badge/⚡_LET'S_CONNECT-TELEGRAM-00F5FF?style=for-the-badge&logo=telegram&logoColor=black" />
 </a>
 <a href="https://www.linkedin.com/in/dagnew-mekasha-2637a139">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/💼_LINKEDIN-PROFILE-FF007F?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://t.me/DagnexCru">
-  <img src="https://img.shields.io/badge/Telegram-Message_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="mailto:dagnew19211921@gmail.com">
+  <img src="https://img.shields.io/badge/✉️_EMAIL-ME-FFD700?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 
 <br/><br/>
 
-<!-- Interactive Profile Counter & Location Badges -->
-<img src="https://komarev.com/ghpvc/?username=DagnexCru&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" />
-<img src="https://img.shields.io/github/followers/DagnexCru?label=FOLLOWERS&style=flat-square&color=blue" />
-<img src="https://img.shields.io/badge/📍-Hawassa%2C%20Ethiopia-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/🎓-Hawassa_University_('27)-green?style=flat-square" />
-
-> *"I don't just write code — I engineer solutions that solve real problems."*
+🔥 **CS Student @ Hawassa University** • 📍 **Hawassa, Ethiopia** • ☕ **Powered by Code & Curiosity**
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🌌 TECH MATRIX
 
-## 🧑‍💻 About Me
+#### 🎨 FRONTEND
+![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white)
 
-I'm **Dagnew Mekasha**, a Computer Science student at **Hawassa University** (2023–2027) based in Hawassa, Ethiopia. I build scalable full-stack applications and implement machine learning workflows.
+#### ⚙️ BACKEND & ARCHITECTURE
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)
 
-- 🔭 Currently building a **personal website** using MERN + Django
-- 💼 Working on **REST APIs, microservices, and databases**
-- 🤖 Deepening knowledge in **Machine Learning & AI**
-- 🤝 Open to collaboration on **Open Source & Web Projects**
-- 💬 Ask me about **Python, JavaScript, React, Django, or ML**
-- 📫 Reach me directly on [Telegram (@DagnexCru)](https://t.me/DagnexCru)
-- ⚡ Fun fact: *Coffee turns into working software here!* ☕
+#### 🤖 MACHINE LEARNING & DATA
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
+---
 
-## 🎯 Live Project Focus
+<div align="center">
 
-```text
-🌐 Full Stack Web Dev   ████████████████░░░░  80%
-🤖 Machine Learning     ████████████░░░░░░░░  60%
-🔌 RESTful & Microservices ███████████████░░░  75%
-🗄️ Database Management  ██████████████░░░░░░  70%
+### 📊 TELEMETRY & METRICS
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DagnexCru&theme=radical&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+</div>
