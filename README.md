@@ -1,57 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,24&height=200&section=header&text=DAGNEW%20MEKASHA&fontSize=55&fontColor=ffffff&animation=twinkle&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20%26%20ML%20BUILDER&descAlignY=62&descSize=18" width="100%" />
+# 🌐 DAGNEW MEKASHA
+**Computer Science Student @ Hawassa University | Software Engineer**
 
 <br/>
 
-<a href="https://t.me/DagnexCru">
-  <img src="https://img.shields.io/badge/⚡_LET'S_CONNECT-TELEGRAM-00F5FF?style=for-the-badge&logo=telegram&logoColor=black" />
-</a>
-<a href="https://www.linkedin.com/in/dagnew-mekasha-2637a139">
-  <img src="https://img.shields.io/badge/💼_LINKEDIN-PROFILE-FF007F?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:dagnew19211921@gmail.com">
-  <img src="https://img.shields.io/badge/✉️_EMAIL-ME-FFD700?style=for-the-badge&logo=gmail&logoColor=black" />
-</a>
-
-<br/><br/>
-
-🔥 **CS Student @ Hawassa University** • 📍 **Hawassa, Ethiopia** • ☕ **Powered by Code & Curiosity**
+<p align="center">
+  <a href="mailto:dagnew19211921@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" height="40"/></a>
+  <a href="https://www.linkedin.com/in/dagnew-mekasha-2637a139"><img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/></a>
+  <a href="https://t.me/DagnexCru"><img src="https://img.shields.io/badge/-TELEGRAM-cyan?style=for-the-badge&logo=telegram&logoColor=white" height="40"/></a>
+</p>
 
 </div>
 
 ---
 
-### 🌌 TECH MATRIX
+## 🛠️ CORE TECHNOLOGIES & TOOLS
 
-#### 🎨 FRONTEND
-![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,html,css&perline=7" height="65" />
+</p>
 
-#### ⚙️ BACKEND & ARCHITECTURE
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,vite,nextjs,figma&perline=7" height="65" />
+</p>
 
-#### 🤖 MACHINE LEARNING & DATA
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express,fastapi,postgres,mongodb,mysql&perline=7" height="65" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=redis,docker,git,github,vscode,postman,linux&perline=7" height="65" />
+</p>
 
 ---
 
+## 📝 TECHNICAL ARCHITECTURE & EXPERIENCE PROFILE
+
+### 🏛️ System Architecture & Backend
+I place heavy emphasis on clean backend design patterns, microservices principles, and secure API transport mechanisms.
+- **REST & API Security:** Experienced in defining strict RESTful endpoints, parameter tampering defenses, and robust session management (HttpOnly SameSite cookies & JWT headers).
+- **Database Management:** Proficient in schema design, normalization, complex SQL querying in PostgreSQL and MySQL, as well as document-oriented modeling with MongoDB.
+- **Performance Caching:** Utilizing Redis for memory caching and fast session handling across microservices.
+
+### 💻 Frontend & User Experience
+- Dedicated to modern web design principles using component-driven frameworks like React.
+- Skilled in responsive layout engines (Tailwind CSS, Bootstrap), centralized state management (Redux), and lightning-fast web bundling (Vite).
+
+### 📊 Machine Learning & Data Analytics
+- Applied Python workflow incorporating NumPy for mathematical operations, Pandas for dataframe manipulation, and Scikit-learn for supervised and unsupervised machine learning algorithms.
+- Focused on building data preprocessing pipelines and model evaluation setups.
+
+---
+
+## 📊 CODE CONTRIBUTION TRACKER
+
 <div align="center">
 
-### 📊 TELEMETRY & METRICS
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DagnexCru&theme=radical&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=DagnexCru&theme=dark&hide_border=true" width="100%" />
 
 </div>
